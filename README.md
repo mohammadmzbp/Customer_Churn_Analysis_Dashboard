@@ -77,7 +77,7 @@ The dataset contains customer-related information such as:
 
 Screenshots
 
-![Customer_Churn_Analysis_Dashboard](screenshots/dashboard.png)
+![Customer_Churn_Analysis_Dashboard](screenshots/dashboard.PNG)
 
 
 Future Improvements
