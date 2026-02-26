@@ -77,7 +77,7 @@ The dataset contains customer-related information such as:
 
 Screenshots
 
-![PowerBI_Customer_churn_Dashboard](screenshots/dashboard.png)
+![Customer_Churn_Analysis_Dashboard](screenshots/dashboard.png)
 
 
 Future Improvements
