@@ -66,6 +66,7 @@ These strategies can help reduce churn and improve customer retention.
 
 
 Dataset
+
 The dataset contains customer-related information such as:
 
 - Customer details
