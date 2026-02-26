@@ -74,7 +74,7 @@ The dataset contains customer-related information such as:
 - Contract information
 - Churn status
 
-
+![PowerBI_Customer_churn_Dashboard](PowerBI_Customer_churn_Dashboard/screenshots/dashboard.PNG)
 
 Future Improvements
 - Add churn prediction using machine learning.
