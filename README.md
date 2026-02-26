@@ -75,8 +75,8 @@ The dataset contains customer-related information such as:
 - Churn status
 
 
-Screenshots
-![Customer_Churn_Analysis_Dashboard](screenshots/dashboard.PNG
+
+![Customer_Churn_Analysis_Dashboard](screenshots/dashboard.PNG.
 
 
 Future Improvements
