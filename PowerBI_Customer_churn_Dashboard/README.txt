@@ -66,6 +66,7 @@ These strategies can help reduce churn and improve customer retention.
 
 
 Dataset
+
 The dataset contains customer-related information such as:
 
 - Customer details
@@ -77,7 +78,7 @@ The dataset contains customer-related information such as:
 
 Screenshots
 
-![PowerBI_Customer_churn_Dashboard](PowerBI_Customer_churn_Dashb/screenshots/dashboard.PNG)
+![PowerBI_Customer_churn_Dashboard](PowerBI_Customer_churn_Dashboard/screenshots/dashboard.PNG)
 
 
 Future Improvements
@@ -96,6 +97,7 @@ This project was created as part of my learning journey by following a Power BI 
 Author
 
 Abdul Mujeeb
+
 
 
 
